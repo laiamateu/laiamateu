@@ -43,7 +43,10 @@ class Coche{
         return $this->color;
     }
 
-     
+     public function fantasma($color){
+//No hago nada
+        return $this->color;
+    }    
     public function mostrarInfo(){
          
         // Llamamos a otros métodos
