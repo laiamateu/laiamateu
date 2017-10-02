@@ -28,10 +28,13 @@ class Coche{
         $this->color = $color;
     }
     
-        public function nothing($color){
+     public function nothing($color){
 //No hago nada
     }
      
+    public function guay($color){
+//No hago nada
+    }
     public function mostrarInfo(){
          
         // Llamamos a otros métodos
