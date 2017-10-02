@@ -30,11 +30,20 @@ class Coche{
     
      public function nothing($color){
 //No hago nada
+         return $this->color;
     }
      
     public function guay($color){
 //No hago nada
+        return $this->color;
     }
+    
+    public function chachiruli($color){
+//No hago nada
+        return $this->color;
+    }
+
+     
     public function mostrarInfo(){
          
         // Llamamos a otros métodos
