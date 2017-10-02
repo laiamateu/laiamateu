@@ -27,6 +27,10 @@ class Coche{
 //Le damos un valor a un atributo
         $this->color = $color;
     }
+    
+        public function nothing($color){
+//No hago nada
+    }
      
     public function mostrarInfo(){
          
