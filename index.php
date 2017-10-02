@@ -45,7 +45,7 @@ class Coche{
 
      public function fantasma($color){
 //No hago nada
-        return $this->color;
+        return $this->modelo;
     }    
     public function mostrarInfo(){
          
