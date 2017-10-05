@@ -42,8 +42,7 @@ class Coche{
 //No hago nada
         return $this->color;
     }
-
-   
+  
     public function mostrarInfo(){
          
         // Llamamos a otros métodos
